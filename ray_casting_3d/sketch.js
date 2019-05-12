@@ -1,3 +1,10 @@
+/*
+	use "W" and "S" to move forward and back
+	dragg mouse to turn
+	
+	
+*/
+
 const W = 32;
 const H = 32;
 
